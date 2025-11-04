@@ -1,7 +1,7 @@
 Install this json file into your MCP Client:
 
 
-"""
+```json
 {
   "mcpServers": {
     "remote-example": {
@@ -15,4 +15,4 @@ Install this json file into your MCP Client:
   }
 }
 
-"""
+```
