@@ -4,7 +4,7 @@ Install this json file into your MCP Client:
 ```json
 {
   "mcpServers": {
-    "remote-example": {
+    "chess": {
       "command": "uvx",
       "args": [
         "--from",
