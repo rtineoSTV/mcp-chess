@@ -5,7 +5,7 @@ Install this json file into your MCP Client:
 {
   "mcpServers": {
     "remote-example": {
-      "command": "uv",
+      "command": "uvx",
       "args": [
         "--from",
         "git+https://github.com/rtineoSTV/mcp-chess.git",
